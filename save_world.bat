@@ -5,3 +5,10 @@ REM Nothing to see here
 
 @echo "How, you ask?"
 @echo "Well, line by line"
+
+
+
+
+
+
+@echo "This will be the last line of this script"

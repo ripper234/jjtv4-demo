@@ -1,4 +1,4 @@
-echo "This script will save the world"
+@echo "This script will save the world"
 
-echo "How, you ask?"
-echo "Well, line by line"
+@echo "How, you ask?"
+@echo "Well, line by line"

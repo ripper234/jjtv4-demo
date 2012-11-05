@@ -1,0 +1,1 @@
+echo This script will save the world
